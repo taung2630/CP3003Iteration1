@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<table border="1" cellpadding="10px" cellspacing="0">
+<table border="1" cellpadding="10px" cellspacing= "0">
     <tr>
     <th>Username</th>
     <th>Password</th>
