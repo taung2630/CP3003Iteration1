@@ -9,7 +9,7 @@ if ($_SESSION['login']=="2"){
 	print "\r\n".'<center><a href="logout.php">Logout</a></center>';
 
 }
-else if ($_SESSION['login']=="1"){
+else if ($_SESSION['login']== "1"){
 	$username = $_SESSION["username"];
 	echo "<center><h3>Welcome </h3></center>";
 	echo"<center><h3>".$username."</h3></center>"; 
