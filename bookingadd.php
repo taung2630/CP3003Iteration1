@@ -11,7 +11,7 @@ session_start();
 <script type="text/javascript">
 
 		</script>
-<link rel="stylesheet" href="images/main.css" type="text/css" />
+<link rel="stylesheet" href="images/main.css" type= "text/css" />
 <title>Secure</title>
 
 </head>
