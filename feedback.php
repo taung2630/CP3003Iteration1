@@ -7,7 +7,7 @@ session_start();
 
 <head>
 <link rel="Icon" href="images/favicon.ico" >
-<link rel="stylesheet" href="images/main.css" type="text/css" />
+<link rel="stylesheet" href="images/main.css"  type="text/css" />
 <title>Feedback</title>
 
 </head>
