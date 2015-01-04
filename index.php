@@ -4,7 +4,7 @@
 
 <head>
 <link rel="Icon" href="images/favicon.ico" >
-<link rel="stylesheet" href="images/main.css" type="text/css" />
+<link rel="stylesheet" href="images/main.css" type= "text/css" />
 <title>Group 4 Cinema</title>
 
 </head>
