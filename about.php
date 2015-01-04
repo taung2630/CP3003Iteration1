@@ -14,7 +14,7 @@ CP2013Ass2-Iteration2
 <body>
 <div id="wrap">
 	<div id="header">				
-		<h1 id="logo">Group<span class="green">4</span>Cinema<span class="gray"></span></h1>	
+	        	<h1 id="logo">Group<span class="green">4</span>Cinema<span class="gray"></span></h1>	
 		<h2 id="slogan">Best Cinema in Singapore</h2> 
 		<ul>
 			<li><a href="index.php"><span>Home</span></a></li>
