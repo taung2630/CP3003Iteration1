@@ -1,6 +1,6 @@
 <?php 
 	// upon user click submit button
-	if ( isset($_REQUEST['Submit']) ) 
+	 if ( isset($_REQUEST['Submit']) ) 
 	{
 		// step 1: connect to database server 
 		$connection = mysql_connect("localhost", "root","","");
